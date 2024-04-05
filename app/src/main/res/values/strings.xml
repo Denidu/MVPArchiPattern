@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MVPArchiPattern</string>
+    <string name="buttonText">Next Course>></string>
+    <string name="heading">MVP Architecture Pattern</string>
+    <string name="subHeading">IIT Courses</string>
+    <string name="description">Course Description</string>
+</resources>
